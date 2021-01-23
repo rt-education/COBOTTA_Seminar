@@ -17,3 +17,4 @@ source /opt/ros/melodic/setup.bash
 sudo rosdep init
 rosdep update
 
+wget https://raw.githubusercontent.com/rt-education/COBOTTA_Seminar/main/scripts/moveit_install.sh
